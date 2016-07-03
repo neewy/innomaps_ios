@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  InnoMaps
 //
 //  Created by Nikolay Yushkevich on 14.06.16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class FavouriteViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
